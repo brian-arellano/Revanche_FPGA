@@ -1,2 +1,2 @@
 # Revanche_FPGA
-Bitstream Repo
+Bitstream Repository
