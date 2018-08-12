@@ -6,4 +6,4 @@ Full Version: 00081118
 Version Number: 00
 Version Date: 08/11/18
 
-Change: The tx fifo full threshold to support 10G traffic.
+Change: The tx fifo full threshold to support Tx path 10G traffic.
